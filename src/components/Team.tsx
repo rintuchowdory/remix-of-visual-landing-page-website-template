@@ -104,7 +104,7 @@ export function Team() {
   }
 
   return (
-    <div className="relative py-32 bg-background w-full" style={{ 
+    <div className="relative py-20 bg-background w-full" style={{ 
       overflow: 'visible', 
       height: 'auto', 
       minHeight: '0', 
