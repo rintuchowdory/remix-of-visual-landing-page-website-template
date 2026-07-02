@@ -5,7 +5,7 @@ import { Button } from './ui/button'
 
 export function Portfolio() {
   return (
-    <section id="portfolio" className="relative py-32 bg-background">
+    <section id="portfolio" className="relative py-20 bg-background">
       <div className="container mx-auto px-6 sm:px-8 lg:px-12">
         {/* Section Header */}
         <div className="text-center mb-20">
