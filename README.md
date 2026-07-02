@@ -1,7 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
-
+https://ethereal-themes-64.lovable.app
 
 ## How can I edit this code?
 
